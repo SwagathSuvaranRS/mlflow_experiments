@@ -1,0 +1,19 @@
+#
+# Author: Lasse Collin
+#
+# This file has been put into the public domain.
+# You can do whatever you want with this file.
+#
+
+prefix=/Users/swagath/Documents/Notes/MLFLOW_experiment2/venv
+exec_prefix=/Users/swagath/Documents/Notes/MLFLOW_experiment2/venv
+libdir=/Users/swagath/Documents/Notes/MLFLOW_experiment2/venv/lib
+includedir=/Users/swagath/Documents/Notes/MLFLOW_experiment2/venv/include
+
+Name: liblzma
+Description: General purpose data compression library
+URL: https://tukaani.org/xz/
+Version: 5.2.6
+Cflags: -I${includedir}
+Libs: -L${libdir} -llzma
+Libs.private: -pthread -lpthread

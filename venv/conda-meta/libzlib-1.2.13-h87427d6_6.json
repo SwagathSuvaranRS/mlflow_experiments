@@ -1,0 +1,53 @@
+{
+  "build": "h87427d6_6",
+  "build_number": 6,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [
+    "zlib 1.2.13 *_6"
+  ],
+  "depends": [
+    "__osx >=10.13"
+  ],
+  "extracted_package_dir": "/Users/swagath/opt/anaconda3/pkgs/libzlib-1.2.13-h87427d6_6",
+  "features": "",
+  "files": [
+    "lib/libz.1.2.13.dylib",
+    "lib/libz.1.dylib"
+  ],
+  "fn": "libzlib-1.2.13-h87427d6_6.conda",
+  "license": "Zlib",
+  "license_family": "Other",
+  "link": {
+    "source": "/Users/swagath/opt/anaconda3/pkgs/libzlib-1.2.13-h87427d6_6",
+    "type": 1
+  },
+  "md5": "c0ef3c38a80c02ae1d86588c055184fc",
+  "name": "libzlib",
+  "package_tarball_full_path": "/Users/swagath/opt/anaconda3/pkgs/libzlib-1.2.13-h87427d6_6.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/libz.1.2.13.dylib",
+        "path_type": "hardlink",
+        "sha256": "13c3a1255a51d1bda19a1ff37d9544c316ef45d1118b0bf58d347fca9741a3dd",
+        "sha256_in_prefix": "13c3a1255a51d1bda19a1ff37d9544c316ef45d1118b0bf58d347fca9741a3dd",
+        "size_in_bytes": 101328
+      },
+      {
+        "_path": "lib/libz.1.dylib",
+        "path_type": "softlink",
+        "sha256": "13c3a1255a51d1bda19a1ff37d9544c316ef45d1118b0bf58d347fca9741a3dd",
+        "size_in_bytes": 101328
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "1c70fca0720685242b5c68956f310665c7ed43f04807aa4227322eee7925881c",
+  "size": 57373,
+  "subdir": "osx-64",
+  "timestamp": 1716874185419,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/libzlib-1.2.13-h87427d6_6.conda",
+  "version": "1.2.13"
+}

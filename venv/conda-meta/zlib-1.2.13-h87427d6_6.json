@@ -1,0 +1,78 @@
+{
+  "build": "h87427d6_6",
+  "build_number": 6,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [
+    "__osx >=10.13",
+    "libzlib 1.2.13 h87427d6_6"
+  ],
+  "extracted_package_dir": "/Users/swagath/opt/anaconda3/pkgs/zlib-1.2.13-h87427d6_6",
+  "features": "",
+  "files": [
+    "include/zconf.h",
+    "include/zlib.h",
+    "lib/libz.a",
+    "lib/libz.dylib",
+    "lib/pkgconfig/zlib.pc"
+  ],
+  "fn": "zlib-1.2.13-h87427d6_6.conda",
+  "license": "Zlib",
+  "license_family": "Other",
+  "link": {
+    "source": "/Users/swagath/opt/anaconda3/pkgs/zlib-1.2.13-h87427d6_6",
+    "type": 1
+  },
+  "md5": "700b922d6d22e7deb5fb2964d0c8cf6a",
+  "name": "zlib",
+  "package_tarball_full_path": "/Users/swagath/opt/anaconda3/pkgs/zlib-1.2.13-h87427d6_6.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "include/zconf.h",
+        "path_type": "hardlink",
+        "sha256": "f333e19c8c4d93a85ee5be1b517c6b875af3e417d50c9e1d10b47f6406028d6c",
+        "sha256_in_prefix": "f333e19c8c4d93a85ee5be1b517c6b875af3e417d50c9e1d10b47f6406028d6c",
+        "size_in_bytes": 16589
+      },
+      {
+        "_path": "include/zlib.h",
+        "path_type": "hardlink",
+        "sha256": "a980a0d104198a53cc220c51ab5856e5be901bec8a2d02e0ee79a8754219dfed",
+        "sha256_in_prefix": "a980a0d104198a53cc220c51ab5856e5be901bec8a2d02e0ee79a8754219dfed",
+        "size_in_bytes": 97323
+      },
+      {
+        "_path": "lib/libz.a",
+        "path_type": "hardlink",
+        "sha256": "cd5399e4a48355c62d8d0fd3f5213284d316222576b3e4ffb8feba537638617e",
+        "sha256_in_prefix": "cd5399e4a48355c62d8d0fd3f5213284d316222576b3e4ffb8feba537638617e",
+        "size_in_bytes": 119120
+      },
+      {
+        "_path": "lib/libz.dylib",
+        "path_type": "softlink",
+        "sha256": "442861165814be9476382d4ea54d71c176432b3938a0aa73ae34708a13492609",
+        "size_in_bytes": 101328
+      },
+      {
+        "_path": "lib/pkgconfig/zlib.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/zlib-split_1716874002620/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+        "sha256": "38c0f60e26437f8bd6355eb1a921a2c24526a36765e90546e33512400d3e11fc",
+        "sha256_in_prefix": "9bccc568f59fe4eacfc6a2ffeff9864577877e83959145be683f5a1f8df449d4",
+        "size_in_bytes": 504
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "3091d48a579c08ba20885bc8856def925e9dee9d1a7d8713e3ce002eb29fcd19",
+  "size": 88732,
+  "subdir": "osx-64",
+  "timestamp": 1716874218187,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/zlib-1.2.13-h87427d6_6.conda",
+  "version": "1.2.13"
+}
